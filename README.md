@@ -124,3 +124,7 @@ gi panjang. Kemudian tambahkan objek `rect` ke plot menggunakan `plt.gca().add_p
 9. Tampilkan gambar yang telah dideteksi hurufnya dengan menggunakan `plt.show()`.
 
 Dengan langkah-langkah tersebut, kita dapat mendeteksi huruf pada gambar dan menampilkan persegi panjang yang mengelilingi huruf yang terdeteksi.
+
+# JOURNAL TERKAIT
+Berikut adalah journal terkait dengan projek saya
+https://github.com/AisyahRagillia/WORD-SEGMENTATION-21_202131175_AISYAH-RAGILLIA_F/blob/main/Word-Segmentation--The-Role-of-Distributiona_1996_Journal-of-Memory-and-Lang.pdf
